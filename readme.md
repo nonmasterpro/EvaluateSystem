@@ -1,11 +1,5 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
 
 <h1>Technologies, Tools, Framework, Libralies</h1>
 jQuery,
@@ -59,7 +53,16 @@ PUSHER_APP_SECRET=
 
 <h3>Second </h3> install composer and run composer update
 
-<h3>Third </h3> create new database on mysql and connect in .env file
+<h3>Third </h3> create new database on mysql and connect in `.env` file
+
+```
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=homestead
+DB_USERNAME=root
+DB_PASSWORD=""
+```
 
 <h3>Fourth </h3> php artisan key:generate
 
