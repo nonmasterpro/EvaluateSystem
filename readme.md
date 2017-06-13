@@ -31,19 +31,18 @@ amchart
 <h3>And then - </h3> php artisan serve
 
 <h1>Data</h1>
-<h2>Useranme and Password</h2>
 
 <h3>Username : teerapong</h3>
 <h3>Password : 123456</h3>
 
-<h3>USername : kanyanat</h3>
+<h3>Username : kanyanat</h3>
 <h3>Password : 123456</h3>
 
-<h3>USername : bundid</h3>
+<h3>Username : bundid</h3>
 <h3>Password : 123456</h3>
 
-<h3>USername : jirayu</h3>
+<h3>Username : jirayu</h3>
 <h3>Password : 123456</h3>
 
-<h3>USername : nadech</h3>
+<h3>Username : nadech</h3>
 <h3>Password : 123456</h3>
