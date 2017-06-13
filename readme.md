@@ -20,7 +20,7 @@ amchart,
 
 <h3>First </h3> create .env file by follow code in .env.example
 
-<h3>Second </h3> composer update
+<h3>Second </h3> install composer and run composer update
 
 <h3>Third </h3> create new database on mysql and connect in .env file
 
