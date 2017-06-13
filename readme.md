@@ -8,13 +8,13 @@
 </p>
 
 <h1>Technologies, Tools, Framework, Libralies</h1>
-jQuery
-Bootstrap
-MySQL
-Sublime text 3
-Laravel 5.4
-fontawsome
-amchart
+jQuery, 
+Bootstrap, 
+MySQL, 
+Sublime text 3, 
+Laravel 5.4, 
+fontawsome, 
+amchart, 
 
 <h1>Installation</h1>
 
