@@ -33,17 +33,17 @@ amchart
 <h1>Data</h1>
 <h2>Useranme and Password</h2>
 
-<h3>USername : </h3>teerapong
-<h3>Password : </h3>123456
+<h3>Username : teerapong</h3>
+<h3>Password : 123456</h3>
 
-<h3>USername : </h3>kanyanat
-<h3>Password : </h3>123456
+<h3>USername : kanyanat</h3>
+<h3>Password : 123456</h3>
 
-<h3>USername : </h3>bundid
-<h3>Password : </h3>123456
+<h3>USername : bundid</h3>
+<h3>Password : 123456</h3>
 
-<h3>USername : </h3>jirayu
-<h3>Password : </h3>123456
+<h3>USername : jirayu</h3>
+<h3>Password : 123456</h3>
 
-<h3>USername : </h3>nadech
-<h3>Password : </h3>123456
+<h3>USername : nadech</h3>
+<h3>Password : 123456</h3>
