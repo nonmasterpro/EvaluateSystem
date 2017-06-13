@@ -18,9 +18,9 @@ amchart,
 
 <h1>Installation</h1>
 
-<h3>First </h3> create '.env' file by follow code in '.env.example'
+<h3>First </h3> create `.env` file by follow code in `.env.example`
 
-'''
+```
 APP_NAME=Laravel
 APP_ENV=local
 APP_KEY=
@@ -55,7 +55,7 @@ PUSHER_APP_ID=
 PUSHER_APP_KEY=
 PUSHER_APP_SECRET=
 
-'''
+```
 
 <h3>Second </h3> install composer and run composer update
 
