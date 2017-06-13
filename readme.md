@@ -18,7 +18,7 @@ amchart,
 
 <h1>Installation</h1>
 
-<h3>First </h3> create .env file 
+<h3>First </h3> create .env file by follow code in .env.example
 
 <h3>Second </h3> composer update
 
