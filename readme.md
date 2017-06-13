@@ -22,7 +22,7 @@ amchart,
 
 <h3>Second </h3> composer update
 
-<h3>Third </h3> create database on mysql
+<h3>Third </h3> create new database on mysql and connect in .env file
 
 <h3>Fourth </h3> php artisan key:generate
 
