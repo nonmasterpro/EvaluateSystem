@@ -18,17 +18,17 @@ amchart
 
 <h1>Installation</h1>
 
-<h3>First - </h3> create .env file 
+<h3>First </h3> create .env file 
 
-<h3>Next - </h3> composer update
+<h3>Next </h3> composer update
 
-<h3>Next - </h3> create database mysql name:eval
+<h3>Next </h3> create database mysql name:eval
 
-<h3>Next - </h3> php artisan key:generate
+<h3>Next </h3> php artisan key:generate
 
-<h3>Next - </h3> php artisan migrate --seed
+<h3>Next </h3> php artisan migrate --seed
 
-<h3>And then - </h3> php artisan serve
+<h3>Last</h3> php artisan serve
 
 <h1>Data</h1>
 
