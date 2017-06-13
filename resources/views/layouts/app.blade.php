@@ -47,11 +47,11 @@
         </li>
         @endif
 
-        <div class="footer">
+        {{-- <div class="footer">
         
         Copyright @2017 Teerapong All rights reserved
             
-        </div>
+        </div> --}}
         
 
       </ul>
@@ -156,8 +156,6 @@
     height: 50px;
     font-size: 20px;
     color: white;
-    /*border-bottom: solid white 0.5px;*/
-    /*border-right: solid white 0.5px;*/
 }
 </style>
 </body>

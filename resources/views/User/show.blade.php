@@ -11,12 +11,6 @@ class="btn btn-info tttt" type="button" name="button"> Back </button>
   
 <div class="panel-heading panelheadd" style="font-size: 20px;">Evaluate Employee</div>
 
-{{-- <div id="" class="row">
-  <h3 id="listH3">Evaluate Employee
-
-</h3> --}}
-
-
 <div id="evalbox" class="">
 
 

@@ -2,12 +2,6 @@
 
 @section('content')
 
-{{-- <div class="col-md-8 col-md-offset-2">
-@if(session()->has('message'))
-<h2 style="text-align: center;color: green;" class ="alert alert-succress">{{session()->get('message')}}</h2>
-@endif
-</div> --}}
-
   <button id="myButton11" onclick="window.location.href='/home'"
   class="btn btn-info tttt" type="button" name="button"> Back </button>
 
