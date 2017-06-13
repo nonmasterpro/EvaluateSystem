@@ -20,13 +20,13 @@ amchart,
 
 <h3>First </h3> create .env file 
 
-<h3>Next </h3> composer update
+<h3>Second </h3> composer update
 
-<h3>Next </h3> create database mysql name:eval
+<h3>Third </h3> create database mysql name:eval
 
-<h3>Next </h3> php artisan key:generate
+<h3>Fourth </h3> php artisan key:generate
 
-<h3>Next </h3> php artisan migrate --seed
+<h3>Fifth </h3> php artisan migrate --seed
 
 <h3>Last</h3> php artisan serve
 
