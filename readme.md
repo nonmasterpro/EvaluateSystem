@@ -8,7 +8,7 @@
 </p>
 
 <h1>Technologies, Tools, Framework, Libralies</h1>
-jQuery, 
+jQuery,
 Bootstrap, 
 MySQL, 
 Sublime text 3, 
@@ -18,7 +18,7 @@ amchart,
 
 <h1>Installation</h1>
 
-<h3>First </h3> create .env file by follow code in .env.example
+<h3>First </h3> create '.env' file by follow code in '.env.example'
 
 <h3>Second </h3> install composer and run composer update
 
