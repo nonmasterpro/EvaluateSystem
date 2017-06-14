@@ -1,7 +1,6 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 
-<h1>Technologies, Tools, Framework, Libralies</h1>
+##Technologies, Tools, Framework, Libralies
 jQuery,
 Bootstrap, 
 MySQL, 
@@ -10,9 +9,11 @@ Laravel 5.4,
 fontawsome, 
 amchart
 
-<h1>Installation</h1>
+##Installation
 
-<h3>First </h3> create `.env` file by follow code in `.env.example`
+###First
+
+create `.env` file by follow code in `.env.example`
 
 ```
 APP_NAME=Laravel
@@ -51,9 +52,13 @@ PUSHER_APP_SECRET=
 
 ```
 
-<h3>Second </h3> install composer and run composer update
+###Second
 
-<h3>Third </h3> create new database on mysql and connect in `.env` file
+install composer and run composer update
+
+###Third
+
+create new database on mysql and connect in `.env` file
 
 ```
 DB_CONNECTION=mysql
@@ -64,27 +69,33 @@ DB_USERNAME=root
 DB_PASSWORD=""
 ```
 
-<h3>Fourth </h3> php artisan key:generate
+###Fourth
 
-<h3>Fifth </h3> php artisan migrate --seed
+php artisan key:generate
 
-<h3>Last</h3> php artisan serve
+###Fifth
 
-<h1>Data Necessary</h1>
+php artisan migrate --seed
 
-<h2>User Data</h2>
+###Last
 
-<h4>Username : teerapong</h4>
-<h4>Password : 123456</h4>
+php artisan serve
 
-<h4>Username : kanyanat</h4>
-<h4>Password : 123456</h4>
+##Data Necessary
 
-<h4>Username : bundid</h4>
-<h4>Password : 123456</h4>
+###User Data
 
-<h4>Username : jirayu</h4>
-<h4>Password : 123456</h4>
+Username : teerapong  
+Password : 123456
 
-<h4>Username : nadech</h4>
-<h4>Password : 123456</h4>
+Username : kanyanat  
+Password : 123456
+
+Username : bundid  
+Password : 123456
+
+Username : jirayu  
+Password : 123456
+
+Username : nadech  
+Password : 123456
