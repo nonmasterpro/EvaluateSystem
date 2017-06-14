@@ -59,12 +59,6 @@ PUSHER_APP_SECRET=
 
 ```
 
-or use this command: 
-
-```bash
-cp .env.example .env
-```
-
 ### Third
 
 create new database on mysql and connect in `.env` file
