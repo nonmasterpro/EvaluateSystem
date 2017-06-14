@@ -13,6 +13,13 @@ amchart
 
 ### First
 
+install composer and run 
+```bash
+$ composer update
+```
+
+### Second
+
 create `.env` file by follow code in `.env.example`
 
 ```
@@ -58,12 +65,6 @@ or use this command:
 cp .env.example .env
 ```
 
-### Second
-
-install composer and run 
-```bash
-$ composer update
-```
 ### Third
 
 create new database on mysql and connect in `.env` file
