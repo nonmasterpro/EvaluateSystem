@@ -1,6 +1,6 @@
 
 
-##Technologies, Tools, Framework, Libralies
+## Technologies, Tools, Framework, Libralies
 jQuery,
 Bootstrap, 
 MySQL, 
@@ -9,9 +9,9 @@ Laravel 5.4,
 fontawsome, 
 amchart
 
-##Installation
+## Installation
 
-###First
+### First
 
 create `.env` file by follow code in `.env.example`
 
@@ -52,13 +52,13 @@ PUSHER_APP_SECRET=
 
 ```
 
-###Second
+### Second
 
 install composer and run 
 ```bash
 $composer update
 ```
-###Third
+### Third
 
 create new database on mysql and connect in `.env` file
 
@@ -71,22 +71,22 @@ DB_USERNAME=root
 DB_PASSWORD=""
 ```
 
-###Fourth
+### Fourth
 ```bash
 $ php artisan key:generate
 ```
-###Fifth
+### Fifth
 ```bash
 $ php artisan migrate --seed
 ```
-###Last
+### Last
 ```bash
 $ php artisan serve
 ```
 
-##Data Necessary
+## Data Necessary
 
-###User Data
+### User Data
 
 Username : teerapong  
 Password : 123456
