@@ -1,7 +1,7 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 
-<h1>Technologies, Tools, Framework, Libralies</h1>
+#Technologies, Tools, Framework, Libralies
 jQuery,
 Bootstrap, 
 MySQL, 
@@ -10,9 +10,11 @@ Laravel 5.4,
 fontawsome, 
 amchart, 
 
-<h1>Installation</h1>
+#Installation
 
-<h3>First </h3> create `.env` file by follow code in `.env.example`
+##First
+
+create `.env` file by follow code in `.env.example`
 
 ```
 APP_NAME=Laravel
