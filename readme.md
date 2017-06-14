@@ -53,7 +53,7 @@ PUSHER_APP_SECRET=
 
 <h3>Second </h3> install composer and run 
 ```bash
-composer update
+$ composer update
 ```
 
 <h3>Third </h3> create new database on mysql and connect in 
