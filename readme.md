@@ -51,7 +51,7 @@ PUSHER_APP_SECRET=
 
 ```
 
-<h3>Second </h3> install composer and run 
+<h3>Second </h3> install composer and run:  
 ```bash
 $ composer update
 ```
@@ -67,7 +67,7 @@ DB_USERNAME=root
 DB_PASSWORD=""
 ```
 
-<h3>Fourth </h3> 
+<h3>Fourth </h3> :  
 ```bash
 $ php artisan key:generate
 ```
