@@ -52,6 +52,12 @@ PUSHER_APP_SECRET=
 
 ```
 
+or use this command: 
+
+```bash
+cp .env.example .env
+```
+
 ### Second
 
 install composer and run 
