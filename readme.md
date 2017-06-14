@@ -70,9 +70,9 @@ DB_PASSWORD=""
 ```
 
 ###Fourth
-
+```bash
 php artisan key:generate
-
+```
 ###Fifth
 
 php artisan migrate --seed
