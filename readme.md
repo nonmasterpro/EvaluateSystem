@@ -51,9 +51,15 @@ PUSHER_APP_SECRET=
 
 ```
 
-<h3>Second </h3> install composer and run composer update
+<h3>Second </h3> install composer and run 
+```bash
+composer update
+```
 
-<h3>Third </h3> create new database on mysql and connect in `.env` file
+<h3>Third </h3> create new database on mysql and connect in 
+`
+.env
+` file
 
 ```
 DB_CONNECTION=mysql
