@@ -51,10 +51,7 @@ PUSHER_APP_SECRET=
 
 ```
 
-<h3>Second </h3> install composer and run:  
-```bash
-$ composer update
-```
+<h3>Second </h3> install composer and run composer update
 
 <h3>Third </h3> create new database on mysql and connect in `.env` file
 
@@ -67,18 +64,12 @@ DB_USERNAME=root
 DB_PASSWORD=""
 ```
 
-<h3>Fourth </h3> :  
-```bash
-$ php artisan key:generate
-```
-<h3>Fifth </h3> 
-```bash
-$ php artisan migrate --seed
-```
-<h3>Last</h3> 
-```bash
-$ php artisan serve
-```
+<h3>Fourth </h3> php artisan key:generate
+
+<h3>Fifth </h3> php artisan migrate --seed
+
+<h3>Last</h3> php artisan serve
+
 <h1>Data Necessary</h1>
 
 <h2>User Data</h2>
