@@ -56,7 +56,7 @@ PUSHER_APP_SECRET=
 
 install composer and run 
 ```bash
-$composer update
+$ composer update
 ```
 ### Third
 
